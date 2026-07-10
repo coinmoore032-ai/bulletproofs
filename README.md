@@ -35,7 +35,7 @@ This library provides implementations of:
 
 These proofs are implemented using [Merlin transcripts][doc_merlin],
 allowing them to be arbitrarily composed with other proofs without
-implementation changes.
+implementation changes.:
 
 The development roadmap can be found in the
 [Milestones][gh_milestones] section of the [Github repo][gh_repo].
